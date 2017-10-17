@@ -127,6 +127,7 @@ function animateMessage(message) {
  * Watch New Messages
  */
 
+
 // Paste Watch New Messages code below //
 WeDeploy
   .data(address.data)
